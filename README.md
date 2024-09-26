@@ -18,3 +18,5 @@ Hi! My name is Rishika Cherivirala! I'm currently a rising junior at Cornell Uni
 | [Tertiary Education Analysis in OECD countries](https://github.com/rcherivi/OECD-Tertiary-Education-Analysis/tree/main) |  Observed the percentage of people in OECD countries who obtained a tertiary degree. **Of the factors like GDP, average income, number of private and public universities, etc. that can impact the percentage of the population with tertiary education in a country per year, which factors have more impact on the percentage of the population with tertiary education in OECD countries?**  |  Feature Engineering/Selection with Dummy Variables and AIC, Hypothesis Testing, Train/test set, Residuals, Multicollinearity, Multi-Linear Regression Model, MSE, RMSE, OLS regression testing, and Predictive Modeling Function with **SQL, Pandas, matplotlib, seaborn, sci-kit learn, SciPy, Statsmodels, Missingno** |
 
 
+## Let's Connect 📧
+You can reach me at rishikacrishika@gmail.com and find me on [Linkedn](https://www.linkedin.com/in/rishika-cherivirala/)! I look forward to hearing from you soon!
