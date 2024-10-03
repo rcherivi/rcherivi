@@ -19,4 +19,4 @@ Hi! My name is Rishika Cherivirala! I'm currently a rising junior at Cornell Uni
 
 
 ## Let's Connect 📧
-You can reach me at rishikacrishika@gmail.com and find me on [Linkedn](https://www.linkedin.com/in/rishika-cherivirala/)! I look forward to hearing from you soon!
+You can reach me at rishikacrishika@gmail.com and find me on [Linkedin](https://www.linkedin.com/in/rishika-cherivirala/)! I look forward to hearing from you soon!
