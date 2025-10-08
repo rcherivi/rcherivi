@@ -1,12 +1,12 @@
 ## About me 👋 
 
-Hi! My name is Rishika Cherivirala! I'm currently a junior at Cornell University double majoring in Statistical Science and Computer Science. I hope to pursue a career in the field of Data Science or Software Development. 
+Hi! My name is Rishika Cherivirala! I'm currently a senior at Cornell University double majoring in Statistical Science and Computer Science. I hope to pursue a career in the field of Data Science or Software Development. 
 
 ## Technical Skills ⚒️
-- **Programming Languages:** Python, R, SQL, Java, OCaml, JavaScript, TypeScript
+- **Programming Languages:** Python, R, SQL, Java, JavaScript, TypeScript, C, MATLAB, Stata, OCaml
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Python Libraries:** Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, Beautiful Soup
-- **Other Tools:** Power BI, Microsoft Office Suites
+- **Other Tools:** Power BI, Microsoft Office Suites, Tableau, WhereScape, Boomi, Git
 
 ## My Projects 🔥 
 | Project Name        | Summary           | Tools I Used  |
