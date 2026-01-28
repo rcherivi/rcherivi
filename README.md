@@ -22,4 +22,4 @@ Hi! My name is Rishika Cherivirala! I'm currently a senior at Cornell University
 
 
 ## Let's Connect 📧
-You can reach me at rishikacrishika@gmail.com and find me on [Linkedin](https://www.linkedin.com/in/rishika-cherivirala/)! I look forward to hearing from you!
+You can reach me at rishikacrishika@gmail.com and find me on [LinkedIn](https://www.linkedin.com/in/rishika-cherivirala/)! I look forward to hearing from you!
